@@ -9,20 +9,20 @@
 * С#
 ------------------------------------------------------
 ###### Предварительный просмотр ######
-        ###### Настройки ######
-   Path = @"F:\test"
-   FileType = "*.xml"
-   Tag= "filename"
-   Attribute = "id"
-   ###### XML для теста. ######
+
+  * Path = @"F:\test"
+  * FileType = "*.xml"
+  * Tag= "filename"
+  * Attribute = "id"
+  * ###### XML для теста. ######
    
-   <? xml version = "1.0" encoding = "utf-8" ?>
-   < configuration >
-    < Settings >
-      < directory id = "backUpPath" value = "D:/BACKUPS/" ></ directory >
-        < filename id = "feilname" value = "SameName" ></ filename >
-         < period id = "period" value = "15" ></ period >
-    </ Settings >
-   </ configuration >
+ *  <? xml version = "1.0" encoding = "utf-8" ?>
+ * < configuration >
+ *     < Settings >
+ *        < directory id = "backUpPath" value = "D:/BACKUPS/" ></ directory >
+ *        < filename id = "feilname" value = "SameName" ></ filename >
+ *        < period id = "period" value = "15" ></ period >
+ *     </ Settings >
+ * </ configuration >
    
    ![Результат](https://sun9-46.userapi.com/impg/YirCUBwcNe0kIKDJ3TogNesnaXPi_6SmIbDAzQ/6E-dzQgHB2I.jpg?size=459x183&quality=96&sign=3bd0449839d64a07d1440095d927777f&type=album)
