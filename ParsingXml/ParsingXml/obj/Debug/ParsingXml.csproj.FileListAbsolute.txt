@@ -1,0 +1,7 @@
+C:\Users\Clay\source\repos\ParsingXml\ParsingXml\bin\Debug\ParsingXml.exe.config
+C:\Users\Clay\source\repos\ParsingXml\ParsingXml\bin\Debug\ParsingXml.exe
+C:\Users\Clay\source\repos\ParsingXml\ParsingXml\bin\Debug\ParsingXml.pdb
+C:\Users\Clay\source\repos\ParsingXml\ParsingXml\obj\Debug\ParsingXml.csprojAssemblyReference.cache
+C:\Users\Clay\source\repos\ParsingXml\ParsingXml\obj\Debug\ParsingXml.csproj.CoreCompileInputs.cache
+C:\Users\Clay\source\repos\ParsingXml\ParsingXml\obj\Debug\ParsingXml.exe
+C:\Users\Clay\source\repos\ParsingXml\ParsingXml\obj\Debug\ParsingXml.pdb
