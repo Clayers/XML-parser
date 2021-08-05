@@ -16,7 +16,7 @@
   * Attribute = "id"
 ###### XML для теста. ######
    
-  * <? xml version = "1.0" encoding = "utf-8" ?>
+  * <? xml version = "1.0" encoding = "utf-8" ?> *
   < configuration >
       < Settings >
          < directory id = "backUpPath" value = "D:/BACKUPS/" ></ directory >
